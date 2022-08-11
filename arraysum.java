@@ -15,3 +15,4 @@ System.out.println("The total of the array is " + total);
 
 }
 }
+//The output is 241//
